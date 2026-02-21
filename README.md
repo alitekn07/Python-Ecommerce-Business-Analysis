@@ -1,5 +1,7 @@
 <p align="center">
+   <a href="https://github.com/alitekn07/Python-Ecommerce-Business-Analysis">
   <img src="https://i.imgur.com/rd5zyuG.jpeg" alt="Project Cover Image"/>
+     </a>
 </p>
 
 # 📊 Python E-Commerce Data Analysis – Sales, Product & Customer Insights
@@ -197,6 +199,7 @@ All rights to the analytical structure and presentation belong to the author.
 Unauthorized copying or redistribution without attribution is discouraged.
 
                                                                © 2026 Ali Tekin. All rights reserved.
+
 
 
 
