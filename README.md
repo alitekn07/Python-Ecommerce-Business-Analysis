@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/alitekn07/Python-Ecommerce-Business-Analysis">
-  <img src="https://i.imgur.com/rd5zyuG.jpeg" alt="Project Cover Image"/>
+  <img src="https://i.imgur.com/2r9rXpa.png" alt="Project Cover Image"/>
      </a>
 </p>
 
